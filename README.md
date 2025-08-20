@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=667eea&center=true&vCenter=true&width=600&height=80&lines=Python+Enthusiast;DSA+Explorer;Tech+Content+Creator;Lifelong+Learner;Building+tomorrow's+solutions...;One+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=100&lines=Python+Enthusiast;DSA+Explorer;AI%2FML+Aspirant;Content+Creator;Code+%E2%80%A2+Learn+%E2%80%A2+Share+%E2%80%A2+Repeat" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+  <img width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 </div>
 
 ## About Me
@@ -27,75 +27,50 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 ## Main Quest
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-998f-c5df2d79ffa6.gif" width="400">
 </div>
 
-**🔥 Python Mastery**: From fundamentals to advanced concepts  
-**🤖 AI & Machine Learning**: Exploring the future of intelligent systems  
-**🧩 Data Structures & Algorithms**: Building efficient problem-solving skills  
-**📚 100 Days of Code**: Daily coding practice and project building
+**Python Mastery**: From fundamentals to advanced concepts  
+**AI & Machine Learning**: Exploring the future of intelligent systems  
+**Data Structures & Algorithms**: Building efficient problem-solving skills  
+**100 Days of Code**: Daily coding practice and project building
 
-<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
+</div>
 
 ## Side Quests
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ada56.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f32c5998-cc5c-4c08-9138-f10c4ac26e4f.gif" width="300">
 </div>
 
-**📱 Mobile App Development**: Creating innovative Android applications  
-**🎨 UI/UX Design**: Crafting beautiful and intuitive user experiences  
-**🎬 Content Creation**: Sharing knowledge across social platforms  
-**🎓 College Journey**: Balancing academics with passion projects
+**Mobile App Development**: Creating innovative Android applications  
+**UI/UX Design**: Crafting beautiful and intuitive user experiences  
+**Content Creation**: Sharing knowledge across social platforms  
+**College Journey**: Balancing academics with passion projects
 
 ## Skills & Technologies
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="250">
 </div>
 
 <div align="center">
 
 **Currently Mastering**  
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=dark" />
 
-**Exploring Next**  
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nodejs,mongodb,docker&theme=dark" />
-
-**Future Arsenal**  
-<img src="https://skillicons.dev/icons?i=android,kotlin,figma,aws,firebase,flutter&theme=dark" />
+**Next Level**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 </div>
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-</div>
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=ffffff&border_color=667eea&hide_border=false"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=0D1117&title_color=667eea&text_color=ffffff&border_color=667eea&hide_border=false"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false&border_radius=20&background=0D1117&ring=667eea&fire=667eea&currStreakLabel=667eea&stroke=667eea&dates=ffffff&sideNums=ffffff&sideLabels=ffffff" width="500"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&color=667eea&line=667eea&point=ffffff&hide_border=false&border_radius=20" width="90%"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ada56.gif" width="60">
-</div>
 
 ## 🎬 Content Creation Journey
 
@@ -108,10 +83,18 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 
 ## Current Focus
 
-**100 Days of Code**: Daily Python practice with Angela Yu's course  
-**DSA Journey**: Working through problems with Abdul Bari and Striver  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
+</div>
+
+**100 Days of Code**: Daily Python practice and project building  
+**DSA Journey**: Mastering algorithms and data structures  
 **College Prep**: Getting ready for the upcoming semester  
 **Content Creation**: Sharing my learning journey across social platforms
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f32c5998-cc5c-4c08-9138-f10c4ac26e4f.gif" width="250">
+</div>
 
 ## 2024-2025 Roadmap
 
@@ -144,7 +127,7 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 ## Let's Connect
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-998f-c5df2d79ffa6.gif" width="300">
 </div>
 
 <div align="center">
@@ -157,19 +140,19 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200">
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-440d81ce-0f8b-4918-9376-ed2ee6a4f0b5.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,30:667eea,60:2a5298,100:1e3c72&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75&desc=Let's%20build%20something%20extraordinary%20together&descAlignY=95&descAlign=50&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,30:0099CC,60:667eea,100:764ba2&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75&desc=Let's%20code%20the%20future%20together&descAlignY=95&descAlign=50&descSize=16"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
 </div>
 
-*"In the world of coding, every error is just another step towards mastery"*
+*"Code is poetry written in logic"*
