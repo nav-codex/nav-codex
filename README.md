@@ -65,9 +65,8 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 > *"The best way to learn is to teach"* - Every anime mentor ever
 
 📱 **Follow my coding adventure:**
-- 🐦 **Twitter/X**: [@yourusername] - Daily coding updates & thoughts
-- 📸 **Instagram**: [@yourusername] - Visual learning journey
-- 🎵 **TikTok**: [@yourusername] - Quick coding tips & progress
+- 🐦 **Twitter/X**: [@navcodex] - Daily coding updates & thoughts
+- 📸 **Instagram**: [@nav.codex] - Visual learning journey
 
 ## Current Focus
 
@@ -80,7 +79,7 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
   <img src="https://user-images.githubusercontent.com/74038190/212749695-f32c5998-cc5c-4c08-9138-f10c4ac26e4f.gif" width="250">
 </div>
 
-## 2024-2025 Roadmap
+## 2025-26 Roadmap
 
 **Phase 1: Foundation Building** *(Current)*
 - Complete 100 Days of Python
@@ -94,7 +93,7 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 - Potentially explore Android dev
 - Grow social media presence
 
-**Phase 3: Professional Growth** *(2025)*
+**Phase 3: Professional Growth** *(2026)*
 - Contribute to open source ML projects
 - Build impressive portfolio
 - Internship hunting
@@ -102,11 +101,9 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 
 ## Fun Facts About Me
 
-- I code better with anime OSTs playing in the background
-- Favorite coding time: Late night sessions (classic anime protagonist vibes)
+- I love aalo aale pronthe
+- I code better with punjabi music playing in the background
 - I believe every bug is just a plot twist in my coding story
-- My commit messages sometimes have anime references
-- Dream: To build AI that could predict the next anime I should watch
 
 ## Let's Connect
 
@@ -129,10 +126,6 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,30:0099CC,60:667eea,100:764ba2&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75&desc=Let's%20code%20the%20future%20together&descAlignY=95&descAlign=50&descSize=16"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100">
 </div>
 
 *"Code is poetry written in logic"*
