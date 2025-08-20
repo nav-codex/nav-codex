@@ -127,5 +127,3 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,30:0099CC,60:667eea,100:764ba2&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=75&desc=Let's%20code%20the%20future%20together&descAlignY=95&descAlign=50&descSize=16"/>
 </div>
-
-*"Code is poetry written in logic"*
