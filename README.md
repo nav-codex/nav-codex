@@ -10,9 +10,6 @@
   <img width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
-</div>
 
 ## About Me
 
@@ -41,9 +38,6 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 
 ## Side Quests
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-f32c5998-cc5c-4c08-9138-f10c4ac26e4f.gif" width="300">
-</div>
 
 **Mobile App Development**: Creating innovative Android applications  
 **UI/UX Design**: Crafting beautiful and intuitive user experiences  
@@ -66,12 +60,6 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
-</div>
-
-
-
 ## 🎬 Content Creation Journey
 
 > *"The best way to learn is to teach"* - Every anime mentor ever
@@ -82,10 +70,6 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 - 🎵 **TikTok**: [@yourusername] - Quick coding tips & progress
 
 ## Current Focus
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350">
-</div>
 
 **100 Days of Code**: Daily Python practice and project building  
 **DSA Journey**: Mastering algorithms and data structures  
@@ -125,10 +109,6 @@ Passionate coding enthusiast on a journey to master programming. Currently divin
 - Dream: To build AI that could predict the next anime I should watch
 
 ## Let's Connect
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-998f-c5df2d79ffa6.gif" width="300">
-</div>
 
 <div align="center">
   
